@@ -12,7 +12,7 @@ Este proyecto es una aplicación en Python que permite registrar y visualizar lo
 
 ## Instalación
 
-1. Clona el repositorio a tu máquina local usando
+1. Clona el repositorio a tu máquina local usando `https://github.com/Coby00333/Colecciones_de_datos.git`
 2. Navega a la carpeta del proyecto usando `cd gestor_horarios`
 3. Instala las dependencias usando `pip install -r requirements.txt`/ `py -m pip`
 
